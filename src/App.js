@@ -1,7 +1,7 @@
 import React from 'react';
 import styled , {ThemeProvider } from 'styled-components';
 import Button from './components/button';
-//주석 삭제예정  
+//주석 삭제예정입니다 잘 안되네요
 
 const AppBlock = styled.div`
   width: 512px;
